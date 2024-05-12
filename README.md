@@ -30,15 +30,19 @@ A proposta é que esse seria a primera versão do sistema, que inclusive, será 
 
 ## Demonstração (ScreenShots)
 MENU INICIAL DO SISTEMA:
+
 ![App Screenshot](https://i.postimg.cc/FH2ngBqS/Menu.png)
 
 DEPOSITANDO:
+
 ![App Screenshot](https://i.postimg.cc/4yJ0HH0F/Deposito.png)
 
 EXTRATO / HISTÓTICO:
+
 ![App Screenshot](https://i.postimg.cc/B6Jpm9Cj/Extrato.png)
 
 SACANDO:
+
 ![App Screenshot](https://i.postimg.cc/YCgxkqn4/Saque.png)
 
 
