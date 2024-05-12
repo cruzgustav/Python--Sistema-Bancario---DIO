@@ -27,8 +27,6 @@ A proposta é que esse seria a primera versão do sistema, que inclusive, será 
 
 
 
-<script src="//onlinegdb.com/embed/js/4QBzkW8Ui?theme=dark"></script>
-
 
 ## Demonstração (ScreenShots)
 MENU INICIAL DO SISTEMA:
